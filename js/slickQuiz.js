@@ -217,7 +217,7 @@
                         var inputValue = $(this).next('label').html();
                     }
                     selectedAnswers.push(inputValue.replace("<IMG","<img"));
-                    _gaq.push(['_trackEvent', 'Question', question.q, inputValue.replace("<IMG","<img")]);
+                    _gaq.push(['_trackEvent', 'Answer', inputValue.replace("<IMG","<img"), question.q]);
                 });
 
                 if (plugin.config.preventUnanswered && selectedAnswers.length == 0) {
