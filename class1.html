@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <title>Радиолюбител клас 1</title>
+
+        <link href="css/reset.css" media="screen" rel="stylesheet" type="text/css">
+        <link href="css/slickQuiz.css" media="screen" rel="stylesheet" type="text/css">
+        <link href="css/master.css" media="screen" rel="stylesheet" type="text/css">
+		<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35578227-1']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </head>
+
+    <body id="slickQuiz">
+        <h1 class="quizName"></h1>
+
+        <div class="quizArea">
+            <div class="quizHeader">
+                <!-- where the quiz main copy goes -->
+
+                <a class="button startQuiz" href="">Начало</a>
+            </div>
+
+            <!-- where the quiz gets built -->
+        </div>
+
+        <div class="quizResults">
+            <h3 class="quizScore">Резултат: <span><!-- where the quiz score goes --></span></h3>
+
+            <h3 class="quizLevel"><strong>Ниво:</strong> <span><!-- where the quiz ranking level goes --></span></h3>
+
+            <div class="quizResultsCopy">
+                <!-- where the quiz result copy goes -->
+            </div>
+        </div>
+        <script src="js/jquery-1.7.min.js"></script>
+		<script src="js/class1_vupros.js"></script>
+		<script type="text/javascript">
+var quizJSON = {
+    "info": {
+        "name":    "Подготовка за изпит<br>Радиолюбител клас 1",
+        "main":    "<p>80% или 48 от 60 въпроса за да минеш.</p>",
+        "results": "",
+        "level1":  "Отлично!",
+        "level2":  "Минаваш",
+        "level3":  "За една бройка",
+        "level4":  "Можеш по добре",
+        "level5":  "Слабо...." // no comma here
+    },
+    "questions": []
+};
+
+// Fisher-Yates shuffle - разбърква въпросите по добре
+$.fn.shuffle = function() {
+    for (var i = this.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var temp = this[i];
+        this[i] = this[j];
+        this[j] = temp;
+    }
+    return this;
+}
+
+quizJSON.questions = $(razdel).shuffle().slice(0,60).get();
+		</script>
+        <script src="js/slickQuiz.js"></script>
+        <script src="js/master.js"></script>
+
+    </body>
+</html>

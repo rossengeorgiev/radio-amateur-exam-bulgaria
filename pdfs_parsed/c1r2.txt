@@ -1,0 +1,834 @@
+
+{
+ "q": "Кое радиолюбителско съкращение се използва за да се предаде ”край на съобщението”? <br>(Раздел 2 / №1)",
+ "a": [
+	{"option": "K","correct": false},
+	{"option": "BK","correct": false},
+	{"option": "GA","correct": false},
+	{"option": "AR","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кое радиолюбителско съкращение се използва за да се предаде ”близо до”? <br>(Раздел 2 / №2)",
+ "a": [
+	{"option": "ABT","correct": false},
+	{"option": "VIA","correct": false},
+	{"option": "NR","correct": true},
+	{"option": "NO","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Как в радиолюбителско състезание ще съобщите на кореспондента ”предайте още веднъж поредния номер на връзката”? <br>(Раздел 2 / №3)",
+ "a": [
+	{"option": "NR?","correct": true},
+	{"option": "NO?","correct": false},
+	{"option": "RPRT?","correct": false},
+	{"option": "RST?","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на съкращението “ABT”? <br>(Раздел 2 / №4)",
+ "a": [
+	{"option": "Относно, около","correct": true},
+	{"option": "Всичко","correct": false},
+	{"option": "Отговор","correct": false},
+	{"option": "Обхват","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на кода “QRQ”? <br>(Раздел 2 / №5)",
+ "a": [
+	{"option": "Атмосферни смущения","correct": false},
+	{"option": "Смущения от други станции","correct": false},
+	{"option": "Зает съм","correct": false},
+	{"option": "Предавайте по-бързо","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на кода “QRPР”? <br>(Раздел 2 / №6)",
+ "a": [
+	{"option": "Силата на Вашите сигнали се мени","correct": false},
+	{"option": "Предавател с изключително ниска мощност (до 5 W)","correct": true},
+	{"option": "Предавайте с по-ниска скорост","correct": false},
+	{"option": "Вашата честота се мени","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Как ще постъпите, ако по време на радиовръзка на телеграфия (CW), чуете от кореспондента кода “QRS”? <br>(Раздел 2 / №7)",
+ "a": [
+	{"option": "Ще започнете да предавате по-бавно","correct": true},
+	{"option": "Ще започнете да предавате по-бързо","correct": false},
+	{"option": "Ще останете на подслушване, докато кореспондентът се обади отново","correct": false},
+	{"option": "Ще намалите мощността","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на съкращенията “RPT AА”? <br>(Раздел 2 / №8)",
+ "a": [
+	{"option": "Повторете всичко отново","correct": false},
+	{"option": "Повторете всичко след..","correct": true},
+	{"option": "Повторете всичко до..","correct": false},
+	{"option": "Повторете всичко между..","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кое съкращение означава ”изчакайте момент”? <br>(Раздел 2 / №9)",
+ "a": [
+	{"option": "ALSO","correct": false},
+	{"option": "ALL","correct": false},
+	{"option": "AS","correct": true},
+	{"option": "AR","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на кода “QRU”? <br>(Раздел 2 / №10)",
+ "a": [
+	{"option": "Преустановете предаването","correct": false},
+	{"option": "Повторете опознавателния си знак","correct": false},
+	{"option": "Имам за вас съобщение","correct": false},
+	{"option": "Нямам нищо за вас","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на кода “QRX”? <br>(Раздел 2 / №11)",
+ "a": [
+	{"option": "Изчакайте","correct": true},
+	{"option": "Вашата манипулация е трудно разбираема","correct": false},
+	{"option": "Напуснете тази честота","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Ако чуете отсрещната станция да предава кода “QRZ?”, как ще постъпите? <br>(Раздел 2 / №12)",
+ "a": [
+	{"option": "Ще изчакате известно време, отсрещният оператор е зает","correct": false},
+	{"option": "Ще предадете опознавателния си знак","correct": true},
+	{"option": "Ще се преместите на друга честота","correct": false},
+	{"option": "Ще намалите мощността","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на кода “QRT”? <br>(Раздел 2 / №13)",
+ "a": [
+	{"option": "Изчакайте малко","correct": false},
+	{"option": "Нямам нищо повече за Вас","correct": false},
+	{"option": "Предавайте по-бавно","correct": false},
+	{"option": "Изключете (изключвам) радиостанцията","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на съкращението “BK”? <br>(Раздел 2 / №14)",
+ "a": [
+	{"option": "Започнете да предавате","correct": false},
+	{"option": "Прекъснете предаването","correct": true},
+	{"option": "Имам съобщение за Вас","correct": false},
+	{"option": "Изчакайте един момент","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на съкращението “CALL”? <br>(Раздел 2 / №15)",
+ "a": [
+	{"option": "Адрес на радиостанцията","correct": false},
+	{"option": "Опознавателен знак, повикване","correct": true},
+	{"option": "Отговор","correct": false},
+	{"option": "Радиолюбителски адресник","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на кода “QSB”? <br>(Раздел 2 / №16)",
+ "a": [
+	{"option": "Силата на вашите сигнали се мени","correct": true},
+	{"option": "Останете на подслушване","correct": false},
+	{"option": "Зает съм","correct": false},
+	{"option": "Преминете на друга честота","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на кода “QSY”? <br>(Раздел 2 / №17)",
+ "a": [
+	{"option": "Изчакайте малко","correct": false},
+	{"option": "Увеличете скоростта на предаване","correct": false},
+	{"option": "Преминете на друга честота","correct": true},
+	{"option": "Местонахождение","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на съкращението “SKED”? <br>(Раздел 2 / №18)",
+ "a": [
+	{"option": "Персонална среща","correct": false},
+	{"option": "Приятелски разговор","correct": false},
+	{"option": "Далечна страна","correct": false},
+	{"option": "Насрочена връзка","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на съкращението “PА”? <br>(Раздел 2 / №19)",
+ "a": [
+	{"option": "Апаратура","correct": false},
+	{"option": "Крайно стъпало","correct": true},
+	{"option": "Фазова модулация","correct": false},
+	{"option": "ВЧ усилвател","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на съкращението “FM”? <br>(Раздел 2 / №20)",
+ "a": [
+	{"option": "Честотна модулация","correct": true},
+	{"option": "Краен усилвател","correct": false},
+	{"option": "Телефония","correct": false},
+	{"option": "Честотна характеристика","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Може ли с някое от изброените съкращения да съобщите “започнете да предавате”? <br>(Раздел 2 / №21)",
+ "a": [
+	{"option": "Със съкращението “CQ”","correct": false},
+	{"option": "Със съкращението “ВK”","correct": false},
+	{"option": "Със съкращението “GA”","correct": true},
+	{"option": "Не може","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво означава съкращението “MNY”? <br>(Раздел 2 / №22)",
+ "a": [
+	{"option": "Малко","correct": false},
+	{"option": "Много","correct": true},
+	{"option": "Чудесно","correct": false},
+	{"option": "Мой, моят","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво означава съкращението “OМ”? <br>(Раздел 2 / №23)",
+ "a": [
+	{"option": "Относно","correct": false},
+	{"option": "Окончателен край","correct": false},
+	{"option": "Оператор","correct": false},
+	{"option": "Стар приятел","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво означава съкращението “ТX”? <br>(Раздел 2 / №24)",
+ "a": [
+	{"option": "Предавател","correct": true},
+	{"option": "Приемник","correct": false},
+	{"option": "Приемо-предавател (трансийвър)","correct": false},
+	{"option": "Благодаря","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво означава съкращението “RPT”? <br>(Раздел 2 / №25)",
+ "a": [
+	{"option": "Повторете","correct": true},
+	{"option": "Съобщение, рапорт","correct": false},
+	{"option": "Ретранслатор","correct": false},
+	{"option": "Радиофар","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кое от изброените съкращения означава “къси вълни”? <br>(Раздел 2 / №26)",
+ "a": [
+	{"option": "SK","correct": false},
+	{"option": "MOD","correct": false},
+	{"option": "KW","correct": false},
+	{"option": "SW","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на съкращението “RX”? <br>(Раздел 2 / №27)",
+ "a": [
+	{"option": "Приемник","correct": true},
+	{"option": "Предавател","correct": false},
+	{"option": "Приемо-предавател (трансийвър)","correct": false},
+	{"option": "Висока честота","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво означава съкращението “LID”? <br>(Раздел 2 / №28)",
+ "a": [
+	{"option": "Дисплей на течни кристали","correct": false},
+	{"option": "Лош оператор","correct": true},
+	{"option": "Нямам нищо повече за Вас","correct": false},
+	{"option": "Контролна станция","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "На кой радиолюбителски код е еквивалентно съкращението “CL”? <br>(Раздел 2 / №29)",
+ "a": [
+	{"option": "QSY","correct": false},
+	{"option": "QRX","correct": false},
+	{"option": "QRT","correct": true},
+	{"option": "QSZ","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е значението на съкращението “CQ TEST”? <br>(Раздел 2 / №30)",
+ "a": [
+	{"option": "Общо повикване към радиостанции, които участват в радиолюбителско състезание","correct": true},
+	{"option": "Популярно радиолюбителско състезание","correct": false},
+	{"option": "Техническа проверка на апаратурата","correct": false},
+	{"option": "Общо повикване за извършване на техническа проба","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Как в късовълново радиолюбителско състезание ще помолите кореспондента си да Ви изпрати QSL картичка? <br>(Раздел 2 / №31)",
+ "a": [
+	{"option": "Със съкращенията “PSE YOUR QSL CARD TO MY ADDRESS OR VIA LZ QSL BUREAU”","correct": false},
+	{"option": "Със съкращенията “PSE YOUR QSL VIA BURO = MY QSL IS SURE = TNX”","correct": false},
+	{"option": "Няма да изисквате QSL картичка от кореспондента, защото не е прието радиовръзки по време на състезание да се потвърждават с QSL картички","correct": false},
+	{"option": "Няма да изисквате специално QSL картичка от кореспондента, за да не му пречите в участието в състезанието","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кое от изброените съкращения обикновено се използва в началото на радиовръзката, веднага след опознавателните знаци? <br>(Раздел 2 / №32)",
+ "a": [
+	{"option": "SK","correct": false},
+	{"option": "CUAGN","correct": false},
+	{"option": "GA","correct": true},
+	{"option": "73","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кое от съобщенията е грешно съставено? <br>(Раздел 2 / №33)",
+ "a": [
+	{"option": "PSE RPT UR QUAD","correct": true},
+	{"option": "МNY TKS FOR CALL","correct": false},
+	{"option": "73 ES BEST DX","correct": false},
+	{"option": "HPE CUAGN","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кои два радиолюбителски опознавателни знака са на държави от Северна Америка? <br>(Раздел 2 / №34)",
+ "a": [
+	{"option": "ZS6UP и W7OYT","correct": false},
+	{"option": "NE8SD и CO2FM","correct": true},
+	{"option": "VE3LJX и LU4AX","correct": false},
+	{"option": "HL7AZW и K9HGQ","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кои три опознавателни знака са на държави от Европа? <br>(Раздел 2 / №35)",
+ "a": [
+	{"option": "DK6TE, EA8UM и BT3GS","correct": false},
+	{"option": "HB9EZ, HK5RQ и GI4FXQ","correct": false},
+	{"option": "Z21RW, UA1MJU и OM8AH","correct": false},
+	{"option": "YL2WQ, E73AT и 9A2VO","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кои два опознавателни знака НЕ са на държави от Европа? <br>(Раздел 2 / №36)",
+ "a": [
+	{"option": "4X4YQ и OD5TM","correct": false},
+	{"option": "EК2JL и PY7REW","correct": false},
+	{"option": "4L1VU и 9K2FR","correct": false},
+	{"option": "Всичките","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кои два опознавателни знака НЕ са на държави от Европа? <br>(Раздел 2 / №37)",
+ "a": [
+	{"option": "3A1PL и CN8DW","correct": false},
+	{"option": "EA8BM и DU2HX","correct": true},
+	{"option": "ER5TJ и LU6FS","correct": false},
+	{"option": "Всичките","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кои два опознавателни знака НЕ са на държави от Европа? <br>(Раздел 2 / №38)",
+ "a": [
+	{"option": "T71D и TF1WM","correct": false},
+	{"option": "E74AG и CX5PU","correct": false},
+	{"option": "7X2YH и UA9LLR","correct": true},
+	{"option": "Всичките","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "От кой континент излъчва радиолюбител с опознавателен знак ОА5НК? <br>(Раздел 2 / №39)",
+ "a": [
+	{"option": "Европа","correct": false},
+	{"option": "Азия","correct": false},
+	{"option": "Северна Америка","correct": false},
+	{"option": "Южна Америка","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "От кой континент излъчва радиолюбител с опознавателен знак 9А2АС? <br>(Раздел 2 / №40)",
+ "a": [
+	{"option": "Южна Америка","correct": false},
+	{"option": "Азия","correct": false},
+	{"option": "Океания","correct": false},
+	{"option": "Европа","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кой радиолюбител излъчва от територията на Нова Зеландия? <br>(Раздел 2 / №41)",
+ "a": [
+	{"option": "W7/ZL2URB","correct": false},
+	{"option": "ZL3GQV/MM","correct": false},
+	{"option": "ZL1KH/VE5AXO","correct": true},
+	{"option": "Нито един","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кой от следните радиолюбители е разположен най-близко до България? <br>(Раздел 2 / №42)",
+ "a": [
+	{"option": "5R8JF","correct": false},
+	{"option": "OM8AT","correct": true},
+	{"option": "VK9EE","correct": false},
+	{"option": "JY1A","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кой от следните радиолюбители е разположен най-далече от България? <br>(Раздел 2 / №43)",
+ "a": [
+	{"option": "LX2YH","correct": false},
+	{"option": "OX1IL","correct": true},
+	{"option": "HV1DL","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кой от следните американски радиолюбители е разположен най-близко до България? <br>(Раздел 2 / №44)",
+ "a": [
+	{"option": "WB9GMH","correct": false},
+	{"option": "AA2ER","correct": true},
+	{"option": "KH6ZAP","correct": false},
+	{"option": "ND7JW","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кой от следните американски радиолюбители е разположен най-далече от България? <br>(Раздел 2 / №45)",
+ "a": [
+	{"option": "WB9GMH","correct": false},
+	{"option": "AA2ER","correct": false},
+	{"option": "KH6ZAP","correct": true},
+	{"option": "ND7JW","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Коя е радиолюбителската организация на Русия? <br>(Раздел 2 / №46)",
+ "a": [
+	{"option": "ROARS","correct": false},
+	{"option": "SRR","correct": true},
+	{"option": "BFRR","correct": false},
+	{"option": "FRR","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Коя е радиолюбителската организация на Румъния? <br>(Раздел 2 / №47)",
+ "a": [
+	{"option": "ROARS","correct": false},
+	{"option": "SRR","correct": false},
+	{"option": "BFRR","correct": false},
+	{"option": "FRR","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Коя е радиолюбителската организация на Холандия? <br>(Раздел 2 / №48)",
+ "a": [
+	{"option": "ARRL","correct": false},
+	{"option": "SRR","correct": false},
+	{"option": "SARL","correct": false},
+	{"option": "VERON","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "ARI е радиолюбителската организация на? <br>(Раздел 2 / №49)",
+ "a": [
+	{"option": "Испания","correct": false},
+	{"option": "Италия","correct": true},
+	{"option": "Ирландия","correct": false},
+	{"option": "Индия","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кои райони на света са включени в регион 1 на ITU (и съответно IARU)? <br>(Раздел 2 / №50)",
+ "a": [
+	{"option": "Европа и Близкият Изток","correct": false},
+	{"option": "Европа, Африка, Близкият Изток и Северна Азия","correct": true},
+	{"option": "Европа и Африк","correct": false},
+	{"option": "Само Европа","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "На колко радиолюбителски зони е разделен светът по разпределението на ITU? <br>(Раздел 2 / №51)",
+ "a": [
+	{"option": "20","correct": false},
+	{"option": "24","correct": false},
+	{"option": "50","correct": false},
+	{"option": "75","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "В коя радиолюбителска зона по разпределението на ITU попада територията на България? <br>(Раздел 2 / №52)",
+ "a": [
+	{"option": "14-та","correct": false},
+	{"option": "15-та","correct": false},
+	{"option": "20-та","correct": false},
+	{"option": "28-та","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "На колко радиолюбителски зони е разделен светът по разпределението на CQ/DXCC? <br>(Раздел 2 / №53)",
+ "a": [
+	{"option": "20","correct": false},
+	{"option": "40","correct": true},
+	{"option": "50","correct": false},
+	{"option": "75","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "В коя радиолюбителска зона по разпределението на CQ/DXCC попада територията на България? <br>(Раздел 2 / №54)",
+ "a": [
+	{"option": "14-та","correct": false},
+	{"option": "15-та","correct": false},
+	{"option": "16-та","correct": false},
+	{"option": "20-та","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Приблизително колко страни и територии по DXCC съществуват в света? <br>(Раздел 2 / №55)",
+ "a": [
+	{"option": "155","correct": false},
+	{"option": "245","correct": false},
+	{"option": "335","correct": true},
+	{"option": "425","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кои обхвати се зачитат за радиолюбителската диплома 6B DXCC? <br>(Раздел 2 / №56)",
+ "a": [
+	{"option": "Всички КВ обхвати","correct": false},
+	{"option": "1,8 MHz, 3,5 MHz, 7 MHz, 14 MHz, 21 MHz, 28 MHz","correct": true},
+	{"option": "7 MHz, 10 MHz, 14 MHz, 18 MHz, 21 MHz, 24 MHz","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "На кого от следните радиолюбители е коректно да отговорите, ако този радиолюбител е направил повикване CQ DX на обхвата 14 MHz? <br>(Раздел 2 / №57)",
+ "a": [
+	{"option": "ЕS2PV","correct": false},
+	{"option": "CЕ4UD","correct": true},
+	{"option": "OY1FN","correct": false},
+	{"option": "На нито един от тях","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "На кого от следните радиолюбители е коректно да отговорите, ако този радиолюбител е направил повикване CQ DX на обхвата 10 MHz? <br>(Раздел 2 / №58)",
+ "a": [
+	{"option": "S52UG","correct": false},
+	{"option": "4J1WL","correct": false},
+	{"option": "5B4RE","correct": false},
+	{"option": "На нито един от тях","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Ако участвате в ARRL contest, приблизително под какъв азимут трябва да насочите антената си? <br>(Раздел 2 / №59)",
+ "a": [
+	{"option": "60о","correct": false},
+	{"option": "120о","correct": false},
+	{"option": "180о","correct": false},
+	{"option": "300о","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Ако участвате в JARL contest, приблизително под какъв азимут трябва да насочите антената си? <br>(Раздел 2 / №60)",
+ "a": [
+	{"option": "60о","correct": true},
+	{"option": "120о","correct": false},
+	{"option": "180о","correct": false},
+	{"option": "300о","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кое от изброените съобщения се разменя задължително между радиолюбителите в международните радиолюбителски състезания? <br>(Раздел 2 / №61)",
+ "a": [
+	{"option": "Локатор","correct": false},
+	{"option": "Пореден номер на връзката","correct": false},
+	{"option": "RST (RS)","correct": true},
+	{"option": "Номер на зоната","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Трябва ли да се изпращат QSL картички за потвърждение на радиовръзка, осъществена по време на радиолюбителско състезание? <br>(Раздел 2 / №62)",
+ "a": [
+	{"option": "Да","correct": true},
+	{"option": "Не, ако е изпратен отчет за състезанието","correct": false},
+	{"option": "Не, защото радиовръзки по време на състезание не се признават за никакви радиолюбителски дипломи","correct": false},
+	{"option": "Да, но само ако кореспондентът е пожелал това","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Кои три елемента представляват част от информацията, задължителна за вписване във всяка QSL картичка? <br>(Раздел 2 / №63)",
+ "a": [
+	{"option": "Име на кореспондента, дата на радиовръзката, клас на излъчване","correct": false},
+	{"option": "Час на радиовръзката, опознавателен знак на кореспондента, обхват","correct": true},
+	{"option": "Дата на радиовръзката, клас на излъчване, адрес на кореспондента","correct": false},
+	{"option": "Обхват, RST (RS), използвана антена","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "За какво се издава радиолюбителската диплома DXCC? <br>(Раздел 2 / №64)",
+ "a": [
+	{"option": "За потвърдени радиовръзки с радиолюбители от всички континенти","correct": false},
+	{"option": "За потвърдени радиовръзки с радиолюбители от всички радиолюбителски зони","correct": false},
+	{"option": "За потвърдени радиовръзки с радиолюбители от 100 страни","correct": true},
+	{"option": "За призово място (от първо до трето) на състезанието със същото име","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "На кой късовълнов радиолюбителски обхват, ако има такъв, не е разрешена работа на телефония? <br>(Раздел 2 / №65)",
+ "a": [
+	{"option": "На обхвата 1,8 MHz","correct": false},
+	{"option": "На обхвата 10 MHz","correct": true},
+	{"option": "На обхвата 24 MHz","correct": false},
+	{"option": "Телефония е разрешена на всички обхвати","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Ако български радиолюбител работи с клас на излъчване А1А, на кой късовълнов радиолюбителски обхват няма да може да осъществи симплексна радиовръзка с радиолюбител от втори или трети регион на ITU (и съответно IARU) поради различия в разпределението на обхватите в трите региона? <br>(Раздел 2 / №66)",
+ "a": [
+	{"option": "10 MHz","correct": false},
+	{"option": "21 MHz","correct": false},
+	{"option": "24 MHz","correct": false},
+	{"option": "Такъв проблем не съществува, лентите за клас на излъчване А1А съвпадат в трите региона","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Ако български радиолюбител работи на SSB, на кой късовълнов радиолюбителски обхват няма да може да осъществи симплексна радиовръзка с радиолюбител от САЩ и Канада поради различия в разпределението на обхватите в регион 2 на ITU (и съответно IARU)? <br>(Раздел 2 / №67)",
+ "a": [
+	{"option": "3,5 MHz","correct": false},
+	{"option": "7 MHz","correct": true},
+	{"option": "14 MHz","correct": false},
+	{"option": "Такъв проблем не съществува на посочените обхвати, лентите за SSB съвпадат","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Ако български радиолюбител работи с клас на излъчване J3E, на кой късовълнов радиолюбителски обхват няма да може да осъществи симплексна радиовръзка с радиолюбител от Япония поради различия в разпределението на обхватите в регион 3 на ITU (и съответно IARU)? <br>(Раздел 2 / №68)",
+ "a": [
+	{"option": "1,8 MHz","correct": false},
+	{"option": "21 MHz","correct": false},
+	{"option": "24 MHz","correct": false},
+	{"option": "Такъв проблем не съществува на посочените обхвати, лентите за клас на излъчване J3E съвпадат","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "На каква честота има право и трябва да излъчва български радиолюбител, за да осъществи радиовръзка на SSB с W9 на обхвата 7 MHz? <br>(Раздел 2 / №69)",
+ "a": [
+	{"option": "7,025 MHz","correct": false},
+	{"option": "7,085 MHz","correct": true},
+	{"option": "7,165 MHz","correct": false},
+	{"option": "7,325 MHz","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "На каква честота трябва да приема български радиолюбител, за да осъществи радиовръзка на SSB с W9 на обхвата 7 MHz? <br>(Раздел 2 / №70)",
+ "a": [
+	{"option": "7,025 MHz","correct": false},
+	{"option": "7,085 MHz","correct": false},
+	{"option": "7,165 MHz","correct": true},
+	{"option": "7,325 MHz","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е пакет (packet) радио? <br>(Раздел 2 / №71)",
+ "a": [
+	{"option": "Компресиране на телеграфния сигнал за увеличаване на скоростта при радиовръзка чрез отражение от метеоритни следи","correct": false},
+	{"option": "Свързване на няколко радиостанции, работещи на RTTY, в обща мрежа","correct": false},
+	{"option": "Радиовръзка, осъществена между радиолюбители посредством компютри","correct": true},
+	{"option": "Компютърна програма за проверка и отчет на радиолюбителски състезания","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какви достойнства притежава пакет (packet) радиовръзката пред радиовръзката на CW? <br>(Раздел 2 / №72)",
+ "a": [
+	{"option": "Пакет радиовръзката използва по тясна честотна лента и поради това е по-малко уязвима от смущения","correct": false},
+	{"option": "Пакет радиовръзката е автоматична и не изисква присъствие на оператор","correct": false},
+	{"option": "По-лесно се осъществяват DX радиовръзки на пакет, отколкото на CW","correct": false},
+	{"option": "Информацията, обменена при радиовръзката, се съхранява по-пълно и по-лесно","correct": true}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "С какво ниво на модулация радиолюбителски ретранслатор трябва да предава идентификационния си опознавателен знак? <br>(Раздел 2 / №73)",
+ "a": [
+	{"option": "Ниво, достатъчно да блокира ретранслирания сигнал","correct": false},
+	{"option": "Ниво, достатъчно ниско да не предизвика смущения в ретранслирания сигнал","correct": false},
+	{"option": "Ниво, достатъчно за идентификация по време на ретранслация на сигнал","correct": true},
+	{"option": "Нивото, посочено в Техническите изисквания за осъществяване на електронни съобщения чрез радиосъоръжения от любителската радиослужба","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "По какво ще разпознаете, че любителският ретранслатор, през който сте установили радиовръзка, е разположен извън България? <br>(Раздел 2 / №74)",
+ "a": [
+	{"option": "По езика, на който най-често се говори","correct": false},
+	{"option": "По опознавателния му знак","correct": true},
+	{"option": "По предаваните от ретранслатора координати","correct": false},
+	{"option": "По насочеността на Вашата антена","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е любителски транспондер? <br>(Раздел 2 / №75)",
+ "a": [
+	{"option": "Потиснатата носеща честота на един SSB сигнал","correct": false},
+	{"option": "Любителски ретранслатор, монтиран на спътник на Земята, който препредава от един към друг континент","correct": false},
+	{"option": "Любителски ретранслатор, монтиран на спътник на Земята, който препредава дадена честотна лента от един на друг радиолюбителски обхват","correct": true},
+	{"option": "Ефектът, при който честотата на спътниковия сигнал се измества в зависимост от това дали спътникът се приближава или отдалечава спрямо разположението на радиолюбителя","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+},
+{
+ "q": "Какво е BBS? <br>(Раздел 2 / №76)",
+ "a": [
+	{"option": "Широколентова система (Broad Band System) за подобряване разбираемостта при SSB радиовръзки","correct": false},
+	{"option": "Радиолюбителската организация на Белгия","correct": false},
+	{"option": "Електронна пощенска кутия, ползвана при пакет комуникации","correct": true},
+	{"option": "Националната радиостанция на Великобритания","correct": false}
+],
+"correct":"<p><span>Верен отговор</span></p>",
+"incorrect":"<p><span>Грешен</span></p>"
+}
