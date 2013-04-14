@@ -192,7 +192,8 @@
             checkAnswer: function(checkButton) {
                 var questionLI   = $($(checkButton).parents('li.question')[0]),
                     answerInputs = questionLI.find('input:checked'),
-                    answers      = questions[parseInt(questionLI.attr('id').replace(/(question)/, ''))].a;
+                    question     = questions[parseInt(questionLI.attr('id').replace(/(question)/, ''))],
+                    answers      = question.a;
 
                 // Collect the true answers needed for a correct response
                 var trueAnswers = [];
@@ -216,6 +217,7 @@
                         var inputValue = $(this).next('label').html();
                     }
                     selectedAnswers.push(inputValue.replace("<IMG","<img"));
+                    _gaq.push(['_trackEvent', 'Question', question.q, inputValue.replace("<IMG","<img")]);
                 });
 
                 if (plugin.config.preventUnanswered && selectedAnswers.length == 0) {
@@ -318,9 +320,11 @@
                     levelText = levels[levelRank];
 				var wrong = questionCount - score;
 
-				 _gaq.push(['_setCustomVar',2,'Right Answers',''+score]);
-				 _gaq.push(['_setCustomVar',1,'Wrong Answers',''+wrong]);
-				 _gaq.push(['_trackPageview']);
+                if(levelRank > 2) { // fail
+                    _gaq.push(['_trackEvent', 'Results', 'Fail', ''+levelRank+'. '+levelText]);
+                } else {
+                    _gaq.push(['_trackEvent', 'Results', 'Pass', ''+levelRank+'. '+levelText]);
+                }
 
                 $(targets.quizScore + ' span').html(score + ' / ' + questionCount);
                 $(targets.quizLevel + ' span').html(levelText);
