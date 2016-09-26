@@ -2048,10 +2048,10 @@ var razdel = [
 {
  "q": "На какъв клас на излъчване има право радиолюбител клас 2 в обхвата 430- 440 MHz? <br>(Раздел 3 / №23)",
  "a": [
-	{"option": "Клас А3Е","correct": false},
+	{"option": "Клас А3Е","correct": true},
 	{"option": "Клас А1А","correct": false},
 	{"option": "Клас А2А","correct": false},
-	{"option": "Всичките три класа","correct": true}
+	{"option": "Всичките три класа","correct": false}
 ],
 "correct":"<p><span>Верен отговор</span></p>",
 "incorrect":"<p><span>Грешен</span></p>"
